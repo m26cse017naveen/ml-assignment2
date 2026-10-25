@@ -1,5 +1,4 @@
-# Machine Learning Assignment 2: Decision Forests, Boosting & Bias--Variance Tradeoffs
-
+# Machine Learning Assignment 2: 
 **Student:** Naveen Pratap\
 **Roll Number:** M26CSE017\
 **Random Seed:** `26017` (derived from the digits in the roll number)\
