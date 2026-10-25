@@ -1,0 +1,29 @@
+{
+  "table": {
+    "bag_clean": {
+      "acc": 0.5125
+    },
+    "bag_masked": {
+      "acc": 0.475,
+      "conf": 0.1625
+    },
+    "boost_clean": {
+      "acc": 0.375,
+      "conf": 0.1177
+    },
+    "boost_masked": {
+      "acc": 0.2875,
+      "conf": 0.1231
+    }
+  },
+  "cases": {
+    "first_divergence_masked": {
+      "test_index": 6,
+      "true": 3,
+      "bag_pred": 12,
+      "bag_vote_fraction": 0.12,
+      "boost_pred": 14,
+      "boost_conf": 0.1044
+    }
+  }
+}

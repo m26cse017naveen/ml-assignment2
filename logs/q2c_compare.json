@@ -1,0 +1,62 @@
+[
+  {
+    "model": "bagging",
+    "L": 25,
+    "kept": 25,
+    "train": 0.842,
+    "val": 0.5,
+    "test": 0.562,
+    "fit_s": 26.369,
+    "fit_s_std": null
+  },
+  {
+    "model": "boosting",
+    "L": 25,
+    "kept": 25,
+    "train": 0.533,
+    "val": 0.237,
+    "test": 0.275,
+    "fit_s": 17.675,
+    "fit_s_std": null
+  },
+  {
+    "model": "bagging",
+    "L": 50,
+    "kept": 50,
+    "train": 0.779,
+    "val": 0.487,
+    "test": 0.562,
+    "fit_s": 47.738,
+    "fit_s_std": null
+  },
+  {
+    "model": "boosting",
+    "L": 50,
+    "kept": 50,
+    "train": 0.958,
+    "val": 0.412,
+    "test": 0.375,
+    "fit_s": 33.768,
+    "fit_s_std": null
+  },
+  {
+    "model": "bagging",
+    "L": 100,
+    "kept": 100,
+    "train": 0.762,
+    "val": 0.537,
+    "test": 0.512,
+    "fit_s": 96.112,
+    "fit_s_std": null
+  },
+  {
+    "model": "boosting",
+    "L": 100,
+    "kept": 100,
+    "train": 0.996,
+    "val": 0.425,
+    "test": 0.375,
+    "fit_s": 66.584,
+    "fit_s_std": null
+  }
+]

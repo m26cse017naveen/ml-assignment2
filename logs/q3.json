@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "R": 30,
+    "cfgs": {
+      "shallow": [
+        4,
+        4
+      ],
+      "selected": [
+        null,
+        4
+      ],
+      "deep": [
+        null,
+        1
+      ]
+    },
+    "B": 200,
+    "D": 4,
+    "T": 100,
+    "seed": 26017
+  },
+  "frozen_models": {
+    "tree": [
+      null,
+      1
+    ],
+    "bagging_B": 200,
+    "boosting": [
+      4,
+      100
+    ]
+  },
+  "q3a": {
+    "single_tree": {
+      "bias2": 0.3773,
+      "var": 0.6377,
+      "bias2_plus_var": 1.015,
+      "acc_mean": 0.4925,
+      "acc_sd": 0.0593
+    },
+    "bagging_B200": {
+      "bias2": 0.5056,
+      "var": 0.0207,
+      "bias2_plus_var": 0.5263,
+      "acc_mean": 0.7921,
+      "acc_sd": 0.0341
+    },
+    "boosting_T100": {
+      "bias2": 0.8874,
+      "var": 0.0162,
+      "bias2_plus_var": 0.9037,
+      "acc_mean": 0.3133,
+      "acc_sd": 0.0871
+    }
+  },
+  "q3bc": [
+    {
+      "depth": 4,
+      "single_tree_bias2": 0.8571,
+      "bagging_bias2": 0.8916,
+      "single_tree_var": 0.0757,
+      "bagging_var": 0.013,
+      "var_removed_pct": 82.77,
+      "single_tree_acc": 0.0962,
+      "bagging_acc": 0.265,
+      "acc_gain": 0.1687
+    },
+    {
+      "depth": 16,
+      "single_tree_bias2": 0.6355,
+      "bagging_bias2": 0.6681,
+      "single_tree_var": 0.2303,
+      "bagging_var": 0.02,
+      "var_removed_pct": 91.33,
+      "single_tree_acc": 0.2796,
+      "bagging_acc": 0.6492,
+      "acc_gain": 0.3696
+    },
+    {
+      "depth": null,
+      "single_tree_bias2": 0.3773,
+      "bagging_bias2": 0.5075,
+      "single_tree_var": 0.6377,
+      "bagging_var": 0.0247,
+      "var_removed_pct": 96.13,
+      "single_tree_acc": 0.4925,
+      "bagging_acc": 0.7858,
+      "acc_gain": 0.2933
+    }
+  ],
+  "q3d": {
+    "single_tree": {
+      "clean_test_acc": 0.875,
+      "masked_test_acc": 0.875,
+      "bias2": 0.3773,
+      "variance": 0.6377
+    },
+    "bagging_B200": {
+      "clean_test_acc": 0.475,
+      "masked_test_acc": 0.475,
+      "bias2": 0.5056,
+      "variance": 0.0207
+    },
+    "boosting_T100": {
+      "clean_test_acc": 0.375,
+      "masked_test_acc": 0.2875,
+      "bias2": 0.8874,
+      "variance": 0.0162
+    }
+  }
+}

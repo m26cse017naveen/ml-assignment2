@@ -1,0 +1,152 @@
+[
+  {
+    "depth": 2,
+    "leaf": 1,
+    "val_acc": 0.0375,
+    "train_acc": 0.1,
+    "test_acc": 0.0875,
+    "leaf_count": 4,
+    "mean_samples_per_leaf": 60.0,
+    "frac_single_leaf": 0.0
+  },
+  {
+    "depth": 2,
+    "leaf": 2,
+    "val_acc": 0.0375,
+    "train_acc": 0.1,
+    "test_acc": 0.0875,
+    "leaf_count": 4,
+    "mean_samples_per_leaf": 60.0,
+    "frac_single_leaf": 0.0
+  },
+  {
+    "depth": 2,
+    "leaf": 4,
+    "val_acc": 0.0375,
+    "train_acc": 0.1,
+    "test_acc": 0.0875,
+    "leaf_count": 4,
+    "mean_samples_per_leaf": 60.0,
+    "frac_single_leaf": 0.0
+  },
+  {
+    "depth": 4,
+    "leaf": 1,
+    "val_acc": 0.075,
+    "train_acc": 0.15,
+    "test_acc": 0.1375,
+    "leaf_count": 6,
+    "mean_samples_per_leaf": 40.0,
+    "frac_single_leaf": 0.0
+  },
+  {
+    "depth": 4,
+    "leaf": 2,
+    "val_acc": 0.075,
+    "train_acc": 0.15,
+    "test_acc": 0.1375,
+    "leaf_count": 6,
+    "mean_samples_per_leaf": 40.0,
+    "frac_single_leaf": 0.0
+  },
+  {
+    "depth": 4,
+    "leaf": 4,
+    "val_acc": 0.075,
+    "train_acc": 0.15,
+    "test_acc": 0.1375,
+    "leaf_count": 6,
+    "mean_samples_per_leaf": 40.0,
+    "frac_single_leaf": 0.0
+  },
+  {
+    "depth": 8,
+    "leaf": 1,
+    "val_acc": 0.1375,
+    "train_acc": 0.25,
+    "test_acc": 0.1875,
+    "leaf_count": 10,
+    "mean_samples_per_leaf": 24.0,
+    "frac_single_leaf": 0.0
+  },
+  {
+    "depth": 8,
+    "leaf": 2,
+    "val_acc": 0.1375,
+    "train_acc": 0.25,
+    "test_acc": 0.1875,
+    "leaf_count": 10,
+    "mean_samples_per_leaf": 24.0,
+    "frac_single_leaf": 0.0
+  },
+  {
+    "depth": 8,
+    "leaf": 4,
+    "val_acc": 0.1375,
+    "train_acc": 0.25,
+    "test_acc": 0.1875,
+    "leaf_count": 10,
+    "mean_samples_per_leaf": 24.0,
+    "frac_single_leaf": 0.0
+  },
+  {
+    "depth": 16,
+    "leaf": 1,
+    "val_acc": 0.3,
+    "train_acc": 0.45,
+    "test_acc": 0.3125,
+    "leaf_count": 18,
+    "mean_samples_per_leaf": 13.3333,
+    "frac_single_leaf": 0.0
+  },
+  {
+    "depth": 16,
+    "leaf": 2,
+    "val_acc": 0.3,
+    "train_acc": 0.45,
+    "test_acc": 0.3125,
+    "leaf_count": 18,
+    "mean_samples_per_leaf": 13.3333,
+    "frac_single_leaf": 0.0
+  },
+  {
+    "depth": 16,
+    "leaf": 4,
+    "val_acc": 0.3,
+    "train_acc": 0.45,
+    "test_acc": 0.3125,
+    "leaf_count": 18,
+    "mean_samples_per_leaf": 13.3333,
+    "frac_single_leaf": 0.0
+  },
+  {
+    "depth": null,
+    "leaf": 1,
+    "val_acc": 0.525,
+    "train_acc": 1.0,
+    "test_acc": 0.525,
+    "leaf_count": 45,
+    "mean_samples_per_leaf": 5.3333,
+    "frac_single_leaf": 0.1111
+  },
+  {
+    "depth": null,
+    "leaf": 2,
+    "val_acc": 0.5,
+    "train_acc": 0.9833,
+    "test_acc": 0.5375,
+    "leaf_count": 44,
+    "mean_samples_per_leaf": 5.4545,
+    "frac_single_leaf": 0.0
+  },
+  {
+    "depth": null,
+    "leaf": 4,
+    "val_acc": 0.475,
+    "train_acc": 0.975,
+    "test_acc": 0.55,
+    "leaf_count": 41,
+    "mean_samples_per_leaf": 5.8537,
+    "frac_single_leaf": 0.0
+  }
+]

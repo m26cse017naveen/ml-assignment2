@@ -1,0 +1,130 @@
+[
+  {
+    "depth": 1,
+    "rounds": 10,
+    "kept": 10,
+    "train_acc": null,
+    "val_acc": null,
+    "n_events": null
+  },
+  {
+    "depth": 1,
+    "rounds": 25,
+    "kept": 25,
+    "train_acc": null,
+    "val_acc": null,
+    "n_events": null
+  },
+  {
+    "depth": 1,
+    "rounds": 50,
+    "kept": 50,
+    "train_acc": null,
+    "val_acc": null,
+    "n_events": null
+  },
+  {
+    "depth": 1,
+    "rounds": 100,
+    "kept": 100,
+    "train_acc": null,
+    "val_acc": null,
+    "n_events": null
+  },
+  {
+    "depth": 2,
+    "rounds": 10,
+    "kept": 10,
+    "train_acc": null,
+    "val_acc": null,
+    "n_events": null
+  },
+  {
+    "depth": 2,
+    "rounds": 25,
+    "kept": 25,
+    "train_acc": null,
+    "val_acc": null,
+    "n_events": null
+  },
+  {
+    "depth": 2,
+    "rounds": 50,
+    "kept": 50,
+    "train_acc": null,
+    "val_acc": null,
+    "n_events": null
+  },
+  {
+    "depth": 2,
+    "rounds": 100,
+    "kept": 100,
+    "train_acc": null,
+    "val_acc": null,
+    "n_events": null
+  },
+  {
+    "depth": 3,
+    "rounds": 10,
+    "kept": 10,
+    "train_acc": null,
+    "val_acc": null,
+    "n_events": null
+  },
+  {
+    "depth": 3,
+    "rounds": 25,
+    "kept": 25,
+    "train_acc": null,
+    "val_acc": null,
+    "n_events": null
+  },
+  {
+    "depth": 3,
+    "rounds": 50,
+    "kept": 50,
+    "train_acc": null,
+    "val_acc": null,
+    "n_events": null
+  },
+  {
+    "depth": 3,
+    "rounds": 100,
+    "kept": 100,
+    "train_acc": null,
+    "val_acc": null,
+    "n_events": null
+  },
+  {
+    "depth": 4,
+    "rounds": 10,
+    "kept": 10,
+    "train_acc": null,
+    "val_acc": null,
+    "n_events": null
+  },
+  {
+    "depth": 4,
+    "rounds": 25,
+    "kept": 25,
+    "train_acc": null,
+    "val_acc": null,
+    "n_events": null
+  },
+  {
+    "depth": 4,
+    "rounds": 50,
+    "kept": 50,
+    "train_acc": null,
+    "val_acc": null,
+    "n_events": null
+  },
+  {
+    "depth": 4,
+    "rounds": 100,
+    "kept": 100,
+    "train_acc": null,
+    "val_acc": 0.425,
+    "n_events": null
+  }
+]

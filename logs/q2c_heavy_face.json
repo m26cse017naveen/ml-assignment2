@@ -1,0 +1,42 @@
+{
+  "train_index": 57,
+  "peak_weight": 0.0702,
+  "rounds_total": 100,
+  "rounds_misclassified_in_first_25": 22,
+  "first_learner_correct_round_in_first_25": [
+    5,
+    12,
+    22
+  ],
+  "ensemble_correct_at_end": null,
+  "prediction_history_first_25": [
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false
+  ],
+  "best_depth": 4,
+  "best_rounds": 100,
+  "best_validation_accuracy": 0.425
+}

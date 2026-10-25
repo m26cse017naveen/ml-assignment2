@@ -1,0 +1,29 @@
+{
+  "table": {
+    "tree": null,
+    "bagging": {
+      "clean_acc": 0.5125,
+      "masked_acc": 0.475,
+      "masked_conf": 0.1625
+    },
+    "boosting": {
+      "clean_acc": 0.375,
+      "masked_acc": 0.2875,
+      "clean_conf": 0.1177,
+      "masked_conf": 0.1231
+    }
+  },
+  "face": {
+    "test_index": 6,
+    "selection_rule": "first masked test example where bagging and boosting predictions differ",
+    "true": 3,
+    "bagging": {
+      "masked_pred": 12,
+      "masked_vote_fraction": 0.12
+    },
+    "boosting": {
+      "masked_pred": 14,
+      "masked_confidence": 0.1044
+    }
+  }
+}
